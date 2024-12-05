@@ -4,7 +4,7 @@
 
 int main(void) {
 
-    freopen("input1.txt", "r", stdin);
+    freopen("input.txt", "r", stdin);
 
     std::vector<int> list1(1000), list2(1000);
     for (int i = 0; i < 1000; i++) {
